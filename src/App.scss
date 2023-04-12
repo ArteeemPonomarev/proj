@@ -1,0 +1,31 @@
+%fRoboto {
+  font-family: "Roboto-Light";
+}
+
+%fKiss {
+  font-family: "Kis BT Roman";
+}
+
+.App {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: "";
+  background: url(./assets/image/backgroundImg.png);
+  background-position: center;
+  background-size: cover;
+  .startingPage {
+    width: 100%;
+    height: 100%;
+  }
+  .printPage {
+    width: 100%;
+    height: 100%;
+  }
+  .expositionTourPage {
+    width: 100%;
+    height: 100%;
+  }
+}

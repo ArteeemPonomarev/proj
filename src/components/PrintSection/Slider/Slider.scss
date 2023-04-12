@@ -1,0 +1,17 @@
+.slider {
+    width: 81%;
+    height: 142px;
+    // background-color: #639248;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    .slider__helpText {
+        // background-color: #d83a3a;
+        width: 25%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
