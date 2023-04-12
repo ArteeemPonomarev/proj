@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/proj/static/css/main.704d3e98.css",
+    "main.js": "/proj/static/js/main.ad1108ba.js",
+    "static/media/backgroundVideo60.mp4": "/proj/static/media/backgroundVideo60.8c7b3ccd78a2480675a3.mp4",
+    "static/media/backgroundImg.png": "/proj/static/media/backgroundImg.654a1f3d148ed779e4f8.png",
+    "static/media/logo.mp4": "/proj/static/media/logo.98a46dfa7650be9dcfff.mp4",
+    "static/media/interior0.75Print.png": "/proj/static/media/interior0.75Print.c79f49e2d571d4657093.png",
+    "static/media/startPrint.png": "/proj/static/media/startPrint.fd64bd521465ec5ab153.png",
+    "static/media/facade0.75Print.png": "/proj/static/media/facade0.75Print.92eddda7f154b996a4e0.png",
+    "static/media/interiorFullPrint.png": "/proj/static/media/interiorFullPrint.eb5e075f1f2f0dc0047c.png",
+    "static/media/Roboto-Light.ttf": "/proj/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
+    "static/media/Kis BT Roman.ttf": "/proj/static/media/Kis BT Roman.19aeef2881e6e389ca91.ttf",
+    "static/media/controlElementPrint.svg": "/proj/static/media/controlElementPrint.9a9b32211766728e90518e219a197dd0.svg",
+    "static/media/volume.svg": "/proj/static/media/volume.4dbb11d182fbb6820ff21ba66e22d88d.svg",
+    "index.html": "/proj/index.html",
+    "static/media/info.svg": "/proj/static/media/info.b93fac160faf2c5343a9a056eb17b851.svg",
+    "static/media/return.svg": "/proj/static/media/return.07c783fc4a0096b11f4ee237e19c8115.svg",
+    "main.704d3e98.css.map": "/proj/static/css/main.704d3e98.css.map",
+    "main.ad1108ba.js.map": "/proj/static/js/main.ad1108ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.704d3e98.css",
+    "static/js/main.ad1108ba.js"
+  ]
+}
